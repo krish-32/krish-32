@@ -3,7 +3,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me srikrishnarajanofficial@gmail.com ![telescope-outline](https://github.com/user-attachments/assets/47ffdb03-9677-4391-82aa-506cad9a05db)
+- 📫 How to reach me srikrishnarajanofficial@gmail.com
 
 
 
