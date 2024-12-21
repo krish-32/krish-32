@@ -1,4 +1,4 @@
--  here's my porfolio - https://srikrishnarajanportfolio.web.app/
+-  here's my [porfolio](https://srikrishnarajanportfolio.web.app/)
 - 👋 Hi, I’m srikrishnarajan
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning
